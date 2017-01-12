@@ -47,4 +47,8 @@ Temporary Items
 .apdisk
 
 #Repository specific
-Escape from Tarkov Alpha_Data/*
+Escape from Tarkov Alpha_Data/level*
+Escape from Tarkov Alpha_Data/*.resource
+Escape from Tarkov Alpha_Data/*.assets*
+Escape from Tarkov Alpha_Data/StreamingAssets/*
+Escape from Tarkov Alpha_Data/disunity.jar
