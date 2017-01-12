@@ -1,0 +1,3 @@
+http://dev-prod-01.escapefromtarkov.com/client/game/version/validate
+
+*Source == 95.213.255.26 or *Destination == 95.213.255.26 or *ProcessName == "Escape from Tarkov Alpha.exe"
